@@ -1,0 +1,2 @@
+poultry = 'rabbit'
+print(poultry)
